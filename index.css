@@ -1,0 +1,254 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: 'Fira Sans', sans-serif;
+}
+nav{
+    padding-top: 35px;
+}
+.list{
+    display: flex;
+}
+.list_iteam{
+   list-style:none ;
+    margin-left: 14px;
+}
+.a_list{
+    text-decoration: none;
+    font-family: 'Fira Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    /* or 156% */
+    /* Gray 2 */
+    color: #4F4F4F;
+    }
+.a_list_2{
+    /* text-decoration: none; */
+    font-family: 'Fira Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    /* or 156% */
+    /* Gray 2 */
+}
+.div_p{
+    display: flex;
+    align-items: start;
+    justify-content: space-around;
+}
+.div_p_2{
+    display: flex;
+    align-items: center;
+}
+.ru_a_2{
+font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* or 156% */
+/* Gray 1 */
+color: #333333;
+text-decoration: none;
+padding-left: 5px;
+
+}
+.ru_a{
+font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+/* or 156% */
+color: #22779B;
+text-decoration: none;
+}
+.zero{
+    border-bottom: 2px solid red;
+}
+.logo{
+padding-bottom: 30px;
+}
+/* ---------------------------------------row logo end--------------------------------- */
+.cart_3{
+padding-top: 14px;
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+.vse_a{
+text-decoration: none;
+font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+/* or 156% */
+/* 13 */
+color: #2D9CDB;
+}
+.vse_a2{
+text-decoration: none;
+font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+/* or 156% */
+/* Gray 2 */
+color: #4F4F4F;
+}
+/* ====================================== */
+.karobka{
+    position: absolute;
+    top: -490px;
+}
+.bir{
+    position: relative;
+}
+.sotibolmoq{
+font-weight: 600;
+font-size: 46px;
+}
+.first{
+font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+text-align: center;
+text-align: start;
+margin-left: 10px;
+}
+.sozlar{
+font-weight: 500;
+font-size: 18px;
+text-align: start;
+}
+.nuqta{
+    margin-top: 40px;
+    width: 100px;
+    /* margin: auto; */
+    margin-left: 200px;
+}
+.rasm{
+opacity: 1;
+}
+/* =========================== */
+.bigKarobka{
+    background: #2D353A;
+}
+.taklif{
+font-weight: 400;
+font-size: 36px;
+color: #FFFFFF;
+margin-top: 70px;
+}
+.obvilion{
+    margin-top: 40px;
+}
+.vertigo{
+margin-top: 15px;
+font-weight: 500;
+font-size: 15px;
+color: #FFFFFF;
+}
+/* =================================== */
+.designer{
+font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 46px;
+line-height: 55px;
+/* identical to box height */
+letter-spacing: 3px;
+text-transform: uppercase;
+/* Gray 1 */
+color: #333333;
+}
+.universal{
+font-weight: 500;
+font-size: 21px;
+line-height: 30px;
+/* or 143% */
+/* Gray 3 */
+color: #828282;
+opacity: 0.8;
+}
+.rise{
+    display: flex;
+    align-items: start ;
+}
+.graphic{
+margin-left: 15px;
+font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+/* or 225% */
+/* 3 */
+color: #202020;
+}
+/* ==================================*/
+footer{
+background: #000000;
+/* opacity: 0.8; */
+background: url(img/Rectangle.png);
+background-repeat: no-repeat;
+background-size: cover;
+}
+.ours{
+font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 25px;
+/* or 69% */
+color: #FFFFFF;
+margin-top: 90px;
+}
+.designers{
+    font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 36px;
+/* or 180% */
+letter-spacing: 2px;
+text-transform: uppercase;
+color: #888888;
+margin-top: 80px;
+}
+hr{
+ color: #b71f1f;   
+}
+.demure{
+    display: flex;
+    align-items: start;
+}
+.perfectProgram{
+margin-left: 10px;
+font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 28px;
+/* or 175% */
+color: #FFFFFF;
+}
+.document{
+font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+letter-spacing: 3px;
+text-transform: uppercase;
+color: #FFFFFF;
+margin-top: 120px;
+}
