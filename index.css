@@ -141,6 +141,8 @@ opacity: 1;
 /* =========================== */
 .bigKarobka{
     background: #2D353A;
+    /* background: url(img/Background.svg);
+    background-size: cover; */
 }
 .taklif{
 font-weight: 400;
